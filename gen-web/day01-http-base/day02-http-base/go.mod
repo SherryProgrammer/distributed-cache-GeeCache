@@ -1,4 +1,4 @@
-module main
+module day02-http-base
 
 go 1.21
 
